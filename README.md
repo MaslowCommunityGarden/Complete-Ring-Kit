@@ -1,7 +1,5 @@
 # Complete DUE Board With Case
 
-![Maslow Original Kit Contents](https://raw.githubusercontent.com/MaslowCommunityGarden/Complete-Ring-Kit/Updates-August-2021/DUE_Board_2.jpg)
-
 The upgraded M2 DUE Board and shield are here to take your Maslow to the next level!  Improved tech makes this board a must for serious Maslow users.
 
 * Improvements over Maslow 1.2 Control Board:
